@@ -7,11 +7,12 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "deploy": "npm run build && gh-pages -d build"
+    
   },
   "dependencies": {
     "animate.css": "^4.1.1",
     "aos": "^3.0.0-beta.6",
-    "core-js": "^3.18.3",
+    "core-js": "^3.19.0",
     "particles.js": "^2.0.0",
     "vue": "^2.6.11",
     "vue-canvas-nest": "^2.0.0",
@@ -26,7 +27,7 @@
     "autoprefixer": "^9.8.8",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
+    "eslint-plugin-vue": "^7.20.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "postcss": "^7.0.39",
