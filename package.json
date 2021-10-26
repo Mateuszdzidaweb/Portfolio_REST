@@ -7,7 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "deploy": "npm run build && gh-pages -d build"
-    
   },
   "dependencies": {
     "animate.css": "^4.1.1",
@@ -26,7 +25,7 @@
     "@vue/cli-service": "^4.5.14",
     "autoprefixer": "^9.8.8",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
+    "eslint": "^5.16.0",
     "eslint-plugin-vue": "^7.20.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
